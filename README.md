@@ -16,5 +16,5 @@ This Streamlit app allows users to upload a screenshot of their stock portfolio,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/streamlit-stock-analyzer.git
+   git clone https://github.com/BittMunk/streamlit-stock-analyzer.git
    cd streamlit-stock-analyzer
